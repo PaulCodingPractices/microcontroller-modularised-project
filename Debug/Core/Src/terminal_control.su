@@ -1,0 +1,2 @@
+../Core/Src/terminal_control.c:10:6:Terminal_Init	8	static
+../Core/Src/terminal_control.c:27:6:Terminal_SendString	16	static

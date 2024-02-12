@@ -1,0 +1,3 @@
+../Core/Src/led_control.c:8:6:LED_Init	32	static
+../Core/Src/led_control.c:22:6:LED_Toggle	16	static
+../Core/Src/led_control.c:26:6:SwitchLEDs	8	static
